@@ -17,8 +17,8 @@
 
 #include "harness.h"
 #include "queue.h"
-
-/*
+I have made changes.
+*
   Create empty queue.
   Return NULL if could not allocate space.
 */
